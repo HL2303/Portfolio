@@ -1,4 +1,4 @@
-import { useToast } from "@/hooks/use-toast.jsx";
+import { useToast } from "@/Hooks/use-toast.jsx";
 import {
   Toast,
   ToastClose,
