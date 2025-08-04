@@ -3,7 +3,6 @@ import { Home } from "./pages/Home";
 import { NotFound } from "./pages/NotFound";
 import { Toaster } from "./Components/ui/toaster.jsx";
 
-
 function App() {
   return (
     <>
