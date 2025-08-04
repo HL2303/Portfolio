@@ -1,14 +1,14 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
-
+import promptimage from "./images/prompt_nexus.png";
 const projects = [
   {
     id: 1,
     title: "Prompt Nexus",
     description: "A beautiful landing page app using React and Tailwind.",
-    image: "../images/prompt_nexus.png",
+    image: promptimage,
     tags: ["React", "GenAI", "SaaS","Node.js"],
-    demoUrl: "https://portfolio-gold-one-83.vercel.app/",
-    githubUrl: "https://github.com/HL2303/Portfolio",
+    demoUrl: "https://portfolio-hl.vercel.app/",
+    githubUrl: "https://github.com/HL2303/Prompt-Nexus",
   },
   {
     id: 2,
