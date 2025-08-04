@@ -3,16 +3,16 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
+    title: "Prompt Nexus",
     description: "A beautiful landing page app using React and Tailwind.",
-    image: "./Projects/project1.png",
-    tags: ["React", "TailwindCSS", "Supabase"],
+    image: "../images/prompt_nexus.png",
+    tags: ["React", "GenAI", "SaaS","Node.js"],
     demoUrl: "#",
     githubUrl: "#",
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
+    title: "LeetCode Pattern Miner",
     description:
       "Interactive analytics dashboard with data visualization and filtering capabilities.",
     image: "./Projects/project2.png",
