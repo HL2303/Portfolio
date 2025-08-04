@@ -1,12 +1,75 @@
-# React + Vite
+# Harshit Luthra's Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://portfolio-hl.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github)](https://github.com/HL2303/Portfolio)
 
-Currently, two official plugins are available:
+Welcome to the GitHub repository for my personal portfolio website. This project is a responsive, single-page application built to showcase my skills, projects, and professional journey as a software developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### [Live Demo](https://portfolio-hl.vercel.app/)
 
-## Expanding the ESLint configuration
+![Portfolio Screenshot](/src/Components/images/portfolio.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+-   **Interactive UI:** Smooth animations and transitions using Framer Motion for an engaging user experience.
+-   **Responsive Design:** Fully responsive layout that looks great on all devices, from mobile phones to desktops.
+-   **Dark/Light Mode:** A theme toggle for comfortable viewing in different lighting conditions.
+-   **Project Showcase:** A dedicated section to display my work with links to live demos and GitHub repositories.
+-   **Contact Form:** An integrated form for easy communication.
+-   **Structured Components:** Built with a clean, modular component structure for maintainability and scalability.
+
+---
+
+## 🛠️ Tech Stack
+
+This project was built using a modern frontend stack:
+
+-   **Framework:** [React.js](https://reactjs.org/)
+-   **Build Tool:** [Vite](https://vitejs.dev/)
+-   **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+-   **Animations:** [Framer Motion](https://www.framer.com/motion/)
+-   **Icons:** [Lucide React](https://lucide.dev/)
+-   **Deployment:** [Vercel](https://vercel.com/)
+
+---
+
+## 🚀 Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+You need to have Node.js and npm installed on your machine.
+
+-   [Node.js](https://nodejs.org/) (which includes npm)
+
+### Installation & Setup
+
+1.  **Clone the repository:**
+    ```sh
+    git clone [https://github.com/HL2303/Portfolio.git](https://github.com/HL2303/Portfolio.git)
+    ```
+2.  **Navigate to the project directory:**
+    ```sh
+    cd Portfolio
+    ```
+3.  **Install NPM packages:**
+    ```sh
+    npm install
+    ```
+4.  **Run the development server:**
+    ```sh
+    npm run dev
+    ```
+    The application will be available at `http://localhost:5173` (or the next available port).
+
+---
+
+## 📞 Contact
+
+Harshit Luthra - Feel free to connect with me!
+
+-   **LinkedIn:** [https://www.linkedin.com/in/harshit-luthra23/]
+-   **Email:** [harshitluthra743@gmail.com]
