@@ -8,7 +8,7 @@ import {
   Twitter,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
-import { useToast } from "@/hooks/use-toast";
+import { useToast } from "@/Hooks/use-toast.js";
 import { useState, useRef } from "react";
 import emailjs from "@emailjs/browser";
 
