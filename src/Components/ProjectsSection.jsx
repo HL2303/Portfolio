@@ -7,8 +7,8 @@ const projects = [
     description: "A beautiful landing page app using React and Tailwind.",
     image: "../images/prompt_nexus.png",
     tags: ["React", "GenAI", "SaaS","Node.js"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://portfolio-gold-one-83.vercel.app/",
+    githubUrl: "https://github.com/HL2303/Portfolio",
   },
   {
     id: 2,
