@@ -1,10 +1,13 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 import promptimage from "./images/prompt_nexus.png";
+import collabCanavasImage from "./images/collabcanvas-landingpage.png"; 
+
+
 const projects = [
   {
     id: 1,
     title: "Prompt Nexus",
-    description: "A beautiful landing page app using React and Tailwind.",
+    description: "A full-stack MERN application that uses the power of Google's Gemini AI to transform your simple ideas into detailed, powerful prompts for various creative needs",
     image: promptimage,
     tags: ["React", "GenAI", "SaaS","Node.js"],
     demoUrl: "https://portfolio-hl.vercel.app/",
@@ -12,13 +15,13 @@ const projects = [
   },
   {
     id: 2,
-    title: "LeetCode Pattern Miner",
+    title: "Collab Canvas",
     description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
-    image: "./Projects/project2.png",
-    tags: ["TypeScript", "D3.js", "Next.js"],
+      "A full-stack, real-time collaborative whiteboard application built with the MERN stack and WebSockets. ",
+    image: collabCanavasImage,
+    tags: ["Javascript", "WebSockets", "Realtime"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/HL2303/CollabCanvas",
   },
   {
     id: 3,
